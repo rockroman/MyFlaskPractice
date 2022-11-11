@@ -7,3 +7,20 @@
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
+.flashes{
+    text-align: center;
+    border: 1px solid gray;
+    padding: 5px 2px;
+    background-color: rgb(159, 235, 159);
+}
+.flashes li{
+    font-size: 1.5rem;
+    font-weight: 800;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header.masthead{
+    padding-top: 10px;
+}
